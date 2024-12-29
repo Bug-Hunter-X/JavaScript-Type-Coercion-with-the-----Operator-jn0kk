@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error related to type coercion using the '+' operator.  The `bug.js` file shows the erroneous code where an integer and a string are added, leading to unexpected string concatenation.  The solution in `bugSolution.js` shows how to prevent this by using the Number() function or explicit type checking.
